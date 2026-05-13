@@ -14,3 +14,4 @@ This repo contains my plugins for [Revenge](https://github.com/revenge-mod/reven
 https://github.com/Meqativ/vendetta-debug
 
 https://plugindocs.nexpid.xyz/guides/local-plugin-development
+![OTKUSteyler](https://count.getloli.com/@OTKUSteyler?name=OTKUSteyler&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)
