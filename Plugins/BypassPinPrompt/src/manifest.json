@@ -1,0 +1,14 @@
+{
+    "name": "BypassPinPrompt",
+    "description": "Bypass the pin prompt when using the pin functions port from Equicord.",
+    "authors": [
+        {
+            "name": "btmc727",
+            "id": "554071670143451176"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
