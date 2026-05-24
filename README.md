@@ -7,6 +7,7 @@ This repo contains my plugins for [Revenge](https://github.com/revenge-mod/reven
 # Plugins:
 ### GifRoulette [[Link](https://otkusteyler.github.io/GifRoulette/)] [Vendetta / Bunny / Revenge]
 ### KonoChan-Randomizer [[Link](https://otkusteyler.github.io/KonoChan-Randomizer-/)] [Vendetta / Bunny / Revenge]
+### BypassPinPrompt [[Link](https://otkusteyler.github.io/BypassPinPrompt/)] [Vendetta / Bunny / Revenge]
 
 
 ## Development Resources:
