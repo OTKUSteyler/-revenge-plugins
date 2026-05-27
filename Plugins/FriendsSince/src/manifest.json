@@ -1,0 +1,18 @@
+{
+    "name": "FriendsSince",
+    "description": "A plugin port from vencord.",
+    "authors": [
+        {
+            "name": "btmc727",
+            "id": "554071670143451176" 
+        },
+        {
+            "name": "シグマ siguma",
+            "id": "737597276339437578"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_friend_request_accepted"
+    }
+}
