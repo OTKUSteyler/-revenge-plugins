@@ -10,6 +10,7 @@ This repo contains my plugins for [Revenge](https://github.com/revenge-mod/reven
 ### BypassPinPrompt [[Link](https://otkusteyler.github.io/BypassPinPrompt/)] [Vendetta / Bunny / Revenge]
 ### FriendsSince [[Link](https://otkusteyler.github.io/FriendsSince/)] [Vendetta / Bunny / Revenge]
 ### RevokeUserBanner [[Link](https://otkusteyler.github.io/RevokeUserBanner/)] [Vendetta / Bunny / Revenge]
+### RemoveNitroProfileEffects [[Link](https://otkusteyler.github.io/RemoveNitroProfileEffects/)] [Vendetta / Bunny / Revenge]
 
 ## Development Resources:
 
