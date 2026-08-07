@@ -11,6 +11,8 @@ This repo contains my plugins for [Revenge](https://github.com/revenge-mod/reven
 ### FriendsSince [[Link](https://otkusteyler.github.io/FriendsSince/)] [Vendetta / Bunny / Revenge]
 ### RevokeUserBanner [[Link](https://otkusteyler.github.io/RevokeUserBanner/)] [Vendetta / Bunny / Revenge]
 ### RemoveNitroProfileEffects [[Link](https://otkusteyler.github.io/RemoveNitroProfileEffects/)] [Vendetta / Bunny / Revenge]
+### NoTypingAnimation [[Link](https://otkusteyler.github.io/NoTypingAnimation/)] [Vendetta / Bunny / Revenge]
+
 
 ## Development Resources:
 
