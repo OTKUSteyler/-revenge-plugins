@@ -1,6 +1,6 @@
 {
-    "name": "RemoveUserBanner",
-    "description": "Remove User Banners completely.",
+    "name": "RemoveProfileEffect",
+    "description": "Remove Nitro Profile Effects completely.",
     "authors": [
         {
             "name": "btmc727",
@@ -11,8 +11,8 @@
             "id": "1099039269391171765"
         }
     ],
-    "main": "src/index.tsx",
+    "main": "/src/index.tsx",
     "vendetta": {
-        "icon": "ic_image_slash"
+        "icon": "ic_sparkles"
     }
 }
