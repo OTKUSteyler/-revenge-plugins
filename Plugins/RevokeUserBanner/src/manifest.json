@@ -1,14 +1,18 @@
 {
-  "name": "RemoveUserBanner",
-  "description": "Remove User Banners completely.",
-  "authors": [
-    {
-      "name": "btmc727",
-      "id": "554071670143451176"
+    "name": "RemoveUserBanner",
+    "description": "Remove User Banners completely.",
+    "authors": [
+        {
+            "name": "btmc727",
+            "id": "554071670143451176"
+        },
+        {
+            "name": "coder.gg",
+            "id": "1099039269391171765"
+        }
+    ],
+    "main": "src/index.tsx",
+    "vendetta": {
+        "icon": "ic_image_slash"
     }
-  ],
-  "main": "src/index.tsx",
-  "vendetta": {
-    "icon": "ic_image_slash"
-  }
 }
